@@ -207,7 +207,6 @@ values (105,38,113.95,4330.1,'2018-02-11','S18_3259','Martas Replicas Co.');
 insert into orders (order_number,quantity_ordered,price_each,sales,order_date,product_code,customer_name)
 values (117,21,95.8,2011.8,'2018-04-16','S18_3259','Toys of Finland, Co.');
 
-select * from orders;
 
 
 
